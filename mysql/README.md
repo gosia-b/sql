@@ -19,5 +19,12 @@ In the notebook `1_create_database.ipynb` you create a database `online_movie_ra
 
 After executing this notebook, you can connect to the database e.g. using *MySQL Workbench* (hostname: 127.0.0.1, port: 3306). Then select *schema* and you can execute queries on your database.
 
+# ORM
+An object-relational mapper (ORM) is a library that automates the transfer of data stored in relational database tables into objects in application code. So it's a bridge between databases and OOP:
+
+<img src="https://github.com/gosia-b/sql/blob/main/mysql/orm.png" width="70%">
+
+
+
 # Reference
 [Article](https://realpython.com/python-mysql/) about MySQL with Python
