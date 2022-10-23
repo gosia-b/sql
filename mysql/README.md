@@ -15,8 +15,9 @@ import mysql.connector
 ```
 
 # Create database
-In the notebook `1_create_database.ipynb` you create a database `online_movie_rating`, then create a table `movies` and fill it with data.  
-After executing this notebook, you can connect to the database e.g. using *MySQL Workbench* (hostname: 127.0.0.1, port: 3306).
+In the notebook `1_create_database.ipynb` you create a database `online_movie_rating`, then create a table `movies` and fill it with data.
+
+After executing this notebook, you can connect to the database e.g. using *MySQL Workbench* (hostname: 127.0.0.1, port: 3306). Then select *schema* and you can execute queries on your database.
 
 # Reference
 [Article](https://realpython.com/python-mysql/) about MySQL with Python
