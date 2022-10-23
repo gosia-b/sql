@@ -1,2 +1,2 @@
-USER = "your_user"
+USER = "root"
 PASSWORD = "your_password"
